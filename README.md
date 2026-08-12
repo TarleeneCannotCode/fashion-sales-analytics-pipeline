@@ -115,6 +115,19 @@ The top 5 by sales value (**Gamis Rp619M**, Jaket Denim, Celana Jeans, Dress For
 
 ---
 
+## Dashboard Preview
+
+The Power BI dashboard consists of four analytical views covering overall performance, platform performance, product performance, and order health.
+
+![Executive Overview](visuals/dashboard/executive_overview.png)
+
+| Platform Performance | Product Performance |
+|---|---|
+| ![Platform](visuals/dashboard/platform_performance.png) | ![Product](visuals/dashboard/product_performance.png) |
+
+![Order Health](visuals/dashboard/order_health.png)
+
+---
 ## Project Structure
 
 ```text
